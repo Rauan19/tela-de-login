@@ -1,0 +1,52 @@
+body{
+    background:url(https://cdn.pixabay.com/photo/2014/11/25/08/13/design-544955_1280.jpg);
+    
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+h1{
+    color: white;
+    
+}
+
+
+div{
+    
+    width: 400px;
+    border-radius: 9px;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 0 0 22px 5px;
+}
+input{
+    width: 70%;
+    padding: 7px 3px;
+    border-radius: 10px;
+    margin-top: 10px;
+    border: none;
+}
+section{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 98vh;
+}
+button{
+    width: 199px;
+    height: 30px;
+    position: relative;
+    margin-top: 10px;
+    border-radius: 10px;
+    top: 30px;
+    font-weight: 700;
+    color: #551a8b;
+}
+a{
+    margin-top: 80px;
+    
+    font-weight: 700;
+    text-decoration: none;
+}
